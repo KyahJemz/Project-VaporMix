@@ -1,0 +1,13 @@
+c:\users\202010170\documents\visual studio 2013\Projects\vapormix\vapormix\bin\Debug\vapormix.exe.config
+c:\users\202010170\documents\visual studio 2013\Projects\vapormix\vapormix\obj\Debug\vapormix.csprojResolveAssemblyReference.cache
+c:\users\202010170\documents\visual studio 2013\Projects\vapormix\vapormix\obj\Debug\vapormix.Form1.resources
+c:\users\202010170\documents\visual studio 2013\Projects\vapormix\vapormix\obj\Debug\vapormix.csproj.GenerateResource.Cache
+c:\users\202010170\documents\visual studio 2013\Projects\vapormix\vapormix\bin\Debug\vapormix.exe
+c:\users\202010170\documents\visual studio 2013\Projects\vapormix\vapormix\bin\Debug\vapormix.pdb
+c:\users\202010170\documents\visual studio 2013\Projects\vapormix\vapormix\obj\Debug\vapormix.Properties.Resources.resources
+c:\users\202010170\documents\visual studio 2013\Projects\vapormix\vapormix\obj\Debug\vapormix.exe
+c:\users\202010170\documents\visual studio 2013\Projects\vapormix\vapormix\obj\Debug\vapormix.pdb
+c:\users\202010170\documents\visual studio 2013\Projects\vapormix\vapormix\obj\Debug\vapormix.Registration.resources
+c:\users\202010170\documents\visual studio 2013\Projects\vapormix\vapormix\obj\Debug\vapormix.HomePage.resources
+c:\users\202010170\documents\visual studio 2013\Projects\vapormix\vapormix\obj\Debug\vapormix.CheckOut.resources
+C:\Users\202010170\Documents\Visual Studio 2013\Projects\vapormix\vapormix\obj\Debug\vapormix.AdminPage.resources
